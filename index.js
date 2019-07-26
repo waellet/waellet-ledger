@@ -1,6 +1,6 @@
 
 
-const BRIDGE_URL = 'https://petbaik.github.io/waellet-ledger-bridge/ledger.html'
+const BRIDGE_URL = 'https://waellet.com/ledger.html'
 
 
 class LedgerBridge  {
