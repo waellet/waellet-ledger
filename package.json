@@ -1,5 +1,5 @@
 {
-    "name": "waellet-ledger",
+    "name": "@waellet/ledger",
     "version": "1.0.0",
     "description": "Waellet ledger integration",
     "keywords": [
