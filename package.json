@@ -1,7 +1,15 @@
 {
     "name": "waellet-ledger",
     "version": "1.0.0",
-    "description": "",
+    "description": "Waellet ledger integration",
+    "keywords": [
+        "waellet",
+        "blockchain",
+        "aeternity",
+        "ledger"
+    ],
+    "author": "Milen Radkov <milenradkov@me.com>",
+    "license": "ISC",
     "main": "index.js",
     "scripts": {
         "lint": "./node_modules/.bin/eslint . --ext .js",
